@@ -1,0 +1,14 @@
+.logo-cont {
+  border: 1px solid gray;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 0 20px gray;
+  box-shadow: 0 0 20px gray;
+}
+
+.reply-cont {
+  border: 1px solid gray;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 0 20px gray;
+  box-shadow: 0 0 20px gray;
+  background-color: #fffef0;
+}

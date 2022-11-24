@@ -1,0 +1,6 @@
+.my-container {
+  border: 1px solid gray;
+  border-radius: 5%;
+  width: 25vw !important;
+  padding: 20px;
+}
